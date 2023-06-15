@@ -24,7 +24,7 @@
   <project path="mediatek-modules/connectivity/wlan/core/gen4m"
     name="kernel_mediatek-modules_connectivity_wlan_core_gen4m" remote="mt6789-dev" />
 
-  <project path="build" name="kernel/build" remove="aosp" />
+  <project path="build" name="kernel/build" remote="aosp" />
   <project path="kernel/tests" name="kernel/tests" remote="aosp" />
   <project path="kernel/configs" name="kernel/configs" remote="aosp" />
   <project path="common-modules/virtual-device" name="kernel/common-modules/virtual-device"
