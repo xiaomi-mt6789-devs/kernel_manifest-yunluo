@@ -19,6 +19,9 @@
   <project path="mediatek-modules/connectivity/bt/mt66xx"
     name="kernel_mediatek-modules_connectivity_bt_mt66xx" remote="mt6789-dev" />
 
+  <project path="mediatek-modules/connectivity/fmradio"
+    name="kernel_mediatek-modules_connectivity_fmradio" remote="mt6789-dev" />
+
   <project path="mediatek-modules/connectivity/wlan/adaptor"
     name="kernel_mediatek-modules_connectivity_wlan_adaptor" remote="mt6789-dev" />
   <project path="mediatek-modules/connectivity/wlan/core/gen4m"
